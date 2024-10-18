@@ -63,7 +63,7 @@
 <br/>
 
 ## 📊 GitHub Stats
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=Ullyminat&show_icons=true&count_private=true&hide_border=true" align="center" />
 </div>
 
