@@ -2,7 +2,7 @@
   <img src="https://media1.tenor.com/m/Mo3qc0PxGFgAAAAC/wasserfall-forest.gif" align="center" height="450" width="800" />
 </div>
 
-# 👋 Hello, I'm Ullyminat! 💀
+# <div align="center"> 👋 Hello, I'm Ullyminat! 💀 </div>
 
 ### <div align="center">Full-time Full-Stack Developer working with the MERN stack 🚀</div>
 
