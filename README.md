@@ -63,14 +63,14 @@
 <br/>
 
 ## 📊 GitHub Stats
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ullyminat&show_icons=true&count_private=true&hide_border=true" align="center" />
 </div>
-
+<br><br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ullyminat&hide_border=true&layout=compact" align="center" />
 </div>
-
+<br><br>
 <div align="center">
   <img src="https://www.codewars.com/users/Ullyminat/badges/large" align="center" />
 </div>
