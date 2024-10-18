@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/5d/5c/a9/5d5ca9375080ef2e1e4d6d16178ce589.gif" align="center" height="500" width="800" />
+  <img src="https://i.pinimg.com/originals/74/5c/7a/745c7acafdd96f65086dd95d51e253ec.gif" align="center" />
 </div>
 
 # <div align="center"> 👋 Hello, I'm Ullyminat! 💀 </div>
