@@ -2,9 +2,9 @@
   <img src="https://i.pinimg.com/originals/74/5c/7a/745c7acafdd96f65086dd95d51e253ec.gif" align="center" height="500"/>
 </div>
 
-# <div align="center"> 👋 Hello, I'm Ullyminat! 💀 </div>
+# <div align="center">Hello, I'm Ullyminat!</div>
 
-### <div align="center">Full-time Full-Stack Developer working with the MERN stack 🚀</div>
+### <div align="center">Full-time Full-Stack Developer</div>
 
 ---
 
@@ -50,18 +50,6 @@
 
 <br/>
 
-## 🌍 Connect with Me
-<div align="center">
-  <a href="https://github.com/Ullyminat" target="_blank">
-    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://stackoverflow.com/users/Ullyminat" target="_blank">
-    <img src="https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" style="margin-bottom: 5px;" />
-  </a>  
-</div>
-
-<br/>
-
 ## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ullyminat&show_icons=true&count_private=true&hide_border=true" align="center" />
@@ -84,11 +72,3 @@
 
 <br/>
 
-## ☕ Support Me
-<div align="center">
-  <a href="https://www.buymeacoffee.com/Ullyminat" target="_blank">
-    <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" align="center" />
-  </a>
-</div>
-
-<br/>
