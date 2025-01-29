@@ -29,7 +29,7 @@
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
 <a href="https://golang.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Golang" height="50" /></a>
-<a href="https://github.com/labstack/echo" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/2624634?v=4" alt="Echo" height="50" /></a>  
+<a href="https://docs.gofiber.io/" target="_blank"><img style="margin: 10px" src="https://docs.gofiber.io/img/logo-dark.svg" alt="Fiber" height="50" /></a>  
 </div>
 
   </td>
