@@ -5,30 +5,15 @@
 ## 🛠 My Tech Stack
 
 <div style="display: flex; justify-content: center; gap: 50px; flex-wrap: wrap;">
-
   <div align="center">
     <h3>Frontend</h3>
-    <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="50"/>
-    <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="50"/>
-    <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="50"/>
-    <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="50"/>
-    <img src="https://www.svgrepo.com/show/374167/vite.svg" height="50"/>
-    <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="50"/>
-    <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" height="50"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,bootstrap" alt="Frontend skills"/>
   </div>
-
   <div align="center">
     <h3>Backend</h3>
-    <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="50"/>
-    <img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" height="50"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" height="50"/>
-    <img src="https://docs.gofiber.io/img/logo-dark.svg" height="50"/>
-    <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" height="50"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" height="50"/>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,go,mongodb,postgres" alt="Backend skills"/>
   </div>
-
 </div>
-
 
 <br/>
 
