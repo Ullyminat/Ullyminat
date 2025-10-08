@@ -52,10 +52,3 @@
 
 <br/>
 
-## 👀 Visitor Counter
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ullyminat&&style=flat-square" align="center"/>
-</div>
-
-<br/>
-
