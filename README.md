@@ -4,37 +4,31 @@
 
 ## 🛠 My Tech Stack
 
-<table>
-<tr>
-  <td valign="top" width="40%">
-  
-  ### Frontend
-<div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="50"/></a>
-<a href="https://www.w3schools.com/css/"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="50"/></a>
-<a href="https://www.javascript.com/"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="50"/></a>
-<a href="https://reactjs.org/"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="50"/></a>
-<a href="https://vitejs.dev/"><img src="https://www.svgrepo.com/show/374167/vite.svg" height="50"/></a>
-<a href="https://tailwindcss.com/"><img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="50"/></a>
-<a href="https://getbootstrap.com/"><img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" height="50"/></a>
+<div style="display: flex; justify-content: center; gap: 50px; flex-wrap: wrap;">
+
+  <div align="center">
+    <h3>Frontend</h3>
+    <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="50"/>
+    <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="50"/>
+    <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="50"/>
+    <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="50"/>
+    <img src="https://www.svgrepo.com/show/374167/vite.svg" height="50"/>
+    <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="50"/>
+    <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" height="50"/>
+  </div>
+
+  <div align="center">
+    <h3>Backend</h3>
+    <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="50"/>
+    <img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" height="50"/>
+    <img src="https://docs.gofiber.io/img/logo-dark.svg" height="50"/>
+    <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" height="50"/>
+  </div>
+
 </div>
 
-  </td>
-  <td valign="top" width="40%">
-
-  ### Backend
-<div align="center">  
-<a href="https://nodejs.org/"><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="50"/></a>
-<a href="https://expressjs.com/"><img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" height="50"/></a>
-<a href="https://golang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" height="50"/></a>
-<a href="https://docs.gofiber.io/"><img src="https://docs.gofiber.io/img/logo-dark.svg" height="50"/></a>
-<a href="https://www.mongodb.com/"><img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" height="50"/></a>
-<a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" height="50"/></a>
-</div>
-
-  </td>
-</tr>
-</table>
 
 <br/>
 
