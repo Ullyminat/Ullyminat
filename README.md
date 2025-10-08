@@ -5,22 +5,22 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDAE&center=true&vCenter=true&width=435&lines=Mega+Eblan;Full-stack+web+developer)](https://git.io/typing-svg)
 </div>
 
-## 🛠 My Tech Stack
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDAE&vCenter=true&repeat=false&width=435&lines=My+Tech+Stack)](https://git.io/typing-svg)
 
 <div style="display: flex; justify-content: center; gap: 50px; flex-wrap: wrap;">
   <div align="center">
-    <h3>Frontend</h3>
+    <h3 style="color:#38BDAEFF;">Frontend</h3>
     <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,bootstrap" alt="Frontend skills"/>
   </div>
   <div align="center">
-    <h3>Backend</h3>
+    <h3 style="color:#38BDAEFF;">Backend</h3>
     <img src="https://skillicons.dev/icons?i=nodejs,express,go,mongodb,postgres" alt="Backend skills"/>
   </div>
 </div>
 
 <br/>
 
-## 📊 GitHub Stats
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDAE&vCenter=true&repeat=false&width=435&lines=GitHub+Stats)](https://git.io/typing-svg)
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ullyminat&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ullyminat&layout=compact&theme=tokyonight&hide_border=true" width="43.3%"/>
