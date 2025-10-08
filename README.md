@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://i.pinimg.com/originals/74/5c/7a/745c7acafdd96f65086dd95d51e253ec.gif" align="center" height="320"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDAE&center=true&vCenter=true&repeat=false&width=435&lines=Ullyimnat)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDAE&center=true&vCenter=true&width=435&lines=Mega+Eblan;Full-stack+web+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=38BDAE&center=true&vCenter=true&repeat=false&width=435&height=100&lines=Ullyminat)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDAE&center=true&vCenter=false&width=435&height=30&lines=Mega+Eblan;Full-stack+web+developer)](https://git.io/typing-svg)
 </div>
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDAE&vCenter=true&repeat=false&width=435&lines=My+Tech+Stack)](https://git.io/typing-svg)
